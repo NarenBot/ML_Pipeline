@@ -1,7 +1,8 @@
+## ML_Pipeline
+This project is meant for practicing ML-end to end complete pipeline.
+
 Application url:
 [HousingPredictor](https://ml-regression-app.herokuapp.com/)
-
-## Start Machine Learning project.
 
 ### Software and account Requirement.
 
@@ -115,4 +116,5 @@ When your datset stats gets change we call it as data drift
 
 
 
-## Write a function to get training file path from artifact dir
+#### Write a function to get training file path from artifact dir
+
