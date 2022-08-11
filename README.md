@@ -2,7 +2,10 @@
 This project is meant for practicing ML-end to end complete pipeline.
 
 Application url:
+[ML_Pipeline] (https://ml-pipe-line.herokuapp.com/)
+<hr>
 [HousingPredictor](https://ml-regression-app.herokuapp.com/)
+
 
 ### Software and account Requirement.
 
