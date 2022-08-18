@@ -4,4 +4,5 @@ numpy
 sklearn
 gunicorn
 ipykernel
+PyYAML
 -e .
