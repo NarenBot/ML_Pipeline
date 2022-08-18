@@ -9,7 +9,9 @@ app = Flask(__name__)
 @app.route("/", methods=['GET', 'POST'])
 def home():
     try:
-        raise Exception("Here the testing is going on...")
+        # raise Exception("Here the testing is going on...")
+        a = 3/0
+        log.info(a)
     except Exception as e:
         housing = HousingException(e, sys)
         log.info(housing.error_message)

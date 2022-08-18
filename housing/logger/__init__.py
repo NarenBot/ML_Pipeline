@@ -12,7 +12,7 @@ filePath = os.path.join(logDir, logFilename)
 logging.basicConfig(
     filename=filePath, filemode="w", level=logging.INFO,
     format='[%(asctime)s] %(name)s | %(levelname)s | %(module)s | %(message)s',
-    datefmt="%b-%d-%Y_%H:%M:%S"
+    datefmt="%b/%d/%Y_%H:%M:%S"
 )
 
 log = logging.getLogger()

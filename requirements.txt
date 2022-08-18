@@ -3,4 +3,5 @@ pandas
 numpy
 sklearn
 gunicorn
+ipykernel
 -e .
